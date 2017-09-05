@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: Verdana, sans-serif;
   text-align: center;
@@ -22,3 +23,11 @@ p {
 .footer {
   text-align: right;
 }
+=======
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: Black;
+  color: White;
+}
+>>>>>>> b38ae5e38db6a4b946c9933e4d1216d09f89f397
